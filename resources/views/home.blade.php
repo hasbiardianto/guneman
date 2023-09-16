@@ -26,7 +26,7 @@
             <!-- End Col -->
 
             <div class="relative ml-4">
-                <img class="w-full rounded-md" src="https://images.unsplash.com/photo-1665686377065-08ba896d16fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&h=800&q=80" alt="Image Description">
+                <img class="w-full rounded-md" src="img/hero-image.jpg" alt="Image Description">
                 <div class="absolute inset-0 -z-[1] bg-gradient-to-tr from-gray-200 via-white/0 to-white/0 w-full h-full rounded-md mt-4 -mb-4 mr-4 -ml-4 lg:mt-6 lg:-mb-6 lg:mr-6 lg:-ml-6 dark:from-slate-800 dark:via-slate-900/0 dark:to-slate-900/0"></div>
             </div>
             <!-- End Col -->
@@ -46,11 +46,11 @@
             <div class="p-4 md:p-5">
                 <div class="flex justify-between items-center">
                     <div>
-                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
-                            Management
+                        <h3 class="group-hover:text-primary font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                            Bahasa Sunda
                         </h3>
                         <p class="text-sm text-gray-500">
-                            4 job positions
+                            Deskripsi pembelajaran
                         </p>
                     </div>
                     <div class="pl-3">
@@ -68,11 +68,11 @@
             <div class="p-4 md:p-5">
                 <div class="flex justify-between items-center">
                     <div>
-                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
-                            App Development
+                        <h3 class="group-hover:text-primary font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                            Bahasa Jawa
                         </h3>
                         <p class="text-sm text-gray-500">
-                            26 job positions
+                            Deskripsi pembelajaran
                         </p>
                     </div>
                     <div class="pl-3">
@@ -90,11 +90,11 @@
             <div class="p-4 md:p-5">
                 <div class="flex justify-between items-center">
                     <div>
-                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
-                            Arts & Entertainment
+                        <h3 class="group-hover:text-primary font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                            Bahasa Madura
                         </h3>
                         <p class="text-sm text-gray-500">
-                            9 job positions
+                            Deskripsi pembelajaran
                         </p>
                     </div>
                     <div class="pl-3">
@@ -118,7 +118,7 @@
 <!-- Card Section -->
 <div class="max-w-5xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
     <!-- Grid -->
-    <h1 class="font-bold text-xl text-center my-5">Guneman.id Menyediakan :</h1>
+    <h1 class="font-bold text-xl text-center my-5"><span class="text-primary">Guneman.id</span> Menyediakan :</h1>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
         <!-- Card -->
         <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800" href="#">
@@ -140,7 +140,7 @@
                             Course
                         </h3>
                         <p class="text-sm text-gray-500">
-                            Get help from 40k+ Preline users
+                            Dibantu dengan mentor penutur asli
                         </p>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                             Video Edukasi
                         </h3>
                         <p class="text-sm text-gray-500">
-                            Just head to «Help» in the app
+                            Yang tersinkron dengan social media
                         </p>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                             Kamus Bahasa Daerah
                         </h3>
                         <p class="text-sm text-gray-500">
-                            Reach us at <span class="text-blue-600 font-medium dark:text-blue-500">info@site.com</span>
+                            Kosakata dari setiap bahasa daerah
                         </p>
                     </div>
                 </div>
