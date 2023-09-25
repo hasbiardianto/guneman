@@ -25,6 +25,10 @@ Route::get('/register', function () {
     return view('register');
 });
 
-Route::get('/dashboard', function () {
-    return view('index');
+Route::get('/galery', function () {
+    return view('galery');
+});
+
+Route::get('/course', function () {
+    return view('course');
 });

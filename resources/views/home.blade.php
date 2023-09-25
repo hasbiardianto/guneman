@@ -50,7 +50,7 @@
                             Bahasa Sunda
                         </h3>
                         <p class="text-sm text-gray-500">
-                            Deskripsi pembelajaran
+                            Detail pembelajaran
                         </p>
                     </div>
                     <div class="pl-3">
@@ -72,7 +72,7 @@
                             Bahasa Jawa
                         </h3>
                         <p class="text-sm text-gray-500">
-                            Deskripsi pembelajaran
+                            Detail pembelajaran
                         </p>
                     </div>
                     <div class="pl-3">
@@ -94,7 +94,7 @@
                             Bahasa Madura
                         </h3>
                         <p class="text-sm text-gray-500">
-                            Deskripsi pembelajaran
+                            Detail pembelajaran
                         </p>
                     </div>
                     <div class="pl-3">
