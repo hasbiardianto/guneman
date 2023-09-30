@@ -7,7 +7,7 @@
         <!-- End Col -->
 
         <div class="mt-3">
-            <p class="text-gray-500">We're part of the <a class="font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-400" href="#">Universitas Muhammadiyah Semarang</a>.</p>
+            <p class="text-gray-500">We're part of the P2MW <a class="font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-400" href="#">Universitas Muhammadiyah Semarang</a>.</p>
             <p class="text-gray-500">© Guneman. 2023 Universitas Muhammadiyah Semarang. All rights reserved.</p>
         </div>
 

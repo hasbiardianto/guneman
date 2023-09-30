@@ -6,7 +6,7 @@
         <!-- Grid -->
         <div class="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
             <div>
-                <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white">Belajar Bahasa Daerah dengan <span class="text-primary">Guneman.id</span></h1>
+                <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white">Belajar Bahasa Daerah bersama <span class="text-primary">Guneman.id</span></h1>
                 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Kamu Dapat Mempelajari Berbagai Bahasa Daerah di Indonesia Melalui Course yang Disediakan</p>
 
                 <!-- Buttons -->
@@ -26,7 +26,7 @@
             <!-- End Col -->
 
             <div class="relative ml-4">
-                <img class="w-full rounded-md" src="img/hero-image.jpg" alt="Image Description">
+                <img class="w-full rounded-md" src="https://source.unsplash.com/5QgIuuBxKwM/900x1000" alt="Image Description">
                 <div class="absolute inset-0 -z-[1] bg-gradient-to-tr from-gray-200 via-white/0 to-white/0 w-full h-full rounded-md mt-4 -mb-4 mr-4 -ml-4 lg:mt-6 lg:-mb-6 lg:mr-6 lg:-ml-6 dark:from-slate-800 dark:via-slate-900/0 dark:to-slate-900/0"></div>
             </div>
             <!-- End Col -->
@@ -113,7 +113,7 @@
 <!-- Course Section End -->
 <!-- Environment Section Start -->
 <div class="m-10">
-    <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white text-center">"<span class="text-primary">Guneman.id</span> adalah platform belajar Bahasa daerah Indonesia yang interaktif dibantu tentor dari penutur asli Bahasa daerah setempat"</h1>
+    <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight dark:text-white text-center">"<span class="text-primary">Guneman.id</span> adalah platform belajar Bahasa daerah Indonesia yang interaktif dibantu tentor dari penutur asli Bahasa daerah setempat"</h1>
 </div>
 <!-- Card Section -->
 <div class="max-w-5xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
