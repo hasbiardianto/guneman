@@ -6,20 +6,26 @@
         <!-- Grid -->
         <div class="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
             <div>
-                <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white">Belajar Bahasa Daerah bersama <span class="text-primary">Guneman.id</span></h1>
-                <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Kamu Dapat Mempelajari Berbagai Bahasa Daerah di Indonesia Melalui Course yang Disediakan</p>
+                <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight ">Belajar Bahasa Daerah bersama <span class="text-primary">Guneman.id</span></h1>
+                <p class="mt-3 text-lg text-gray-800">Kamu Dapat Mempelajari Berbagai Bahasa Daerah di Indonesia Melalui Course yang Disediakan</p>
 
                 <!-- Buttons -->
                 <div class="mt-7 grid gap-3 w-full sm:inline-flex">
-                    <a class="inline-flex justify-center items-center gap-x-3 text-center bg-primary hover:bg-blue-700 border border-transparent text-sm lg:text-base text-white font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition py-3 px-4 dark:focus:ring-offset-gray-800" href="#">
-                        Mulai Belajar
+                    <a class="inline-flex justify-center items-center gap-x-3 text-center bg-primary hover:bg-blue-700 border border-transparent text-sm lg:text-base text-white font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition py-3 px-4 " href="https://instagram.com/gunemanid_" target="_blank">
+                        <svg width="30px" height="30px" viewBox="0 -0.5 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5 5H9.5C7.29086 5 5.5 6.79086 5.5 9V15C5.5 17.2091 7.29086 19 9.5 19H15.5C17.7091 19 19.5 17.2091 19.5 15V9C19.5 6.79086 17.7091 5 15.5 5Z" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5 15C10.8431 15 9.5 13.6569 9.5 12C9.5 10.3431 10.8431 9 12.5 9C14.1569 9 15.5 10.3431 15.5 12C15.5 12.7956 15.1839 13.5587 14.6213 14.1213C14.0587 14.6839 13.2956 15 12.5 15Z" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            <rect x="15.5" y="9" width="2" height="2" rx="1" transform="rotate(-90 15.5 9)" fill="#ffffff"/>
+                            <rect x="16" y="8.5" width="1" height="1" rx="0.5" transform="rotate(-90 16 8.5)" stroke="#ffffff" stroke-linecap="round"/>
+                        </svg>
+                        Ikuti Kami di Instagram
                         <svg class="w-2.5 h-2.5" width="16" height="16" viewBox="0 0 16 16" fill="none">
                             <path d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
                         </svg>
                     </a>
-                    <a class="inline-flex justify-center items-center gap-x-3.5 text-sm lg:text-base text-center border hover:border-gray-300 shadow-sm font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 focus:ring-offset-white transition py-3 px-4 dark:border-gray-800 dark:hover:border-gray-600 dark:shadow-slate-700/[.7] dark:text-white dark:focus:ring-gray-700 dark:focus:ring-offset-gray-800" href="#">
+                    {{-- <a class="inline-flex justify-center items-center gap-x-3.5 text-sm lg:text-base text-center border hover:border-gray-300 shadow-sm font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 focus:ring-offset-white transition py-3 px-4" href="#">
                         Hubungi Kami
-                    </a>
+                    </a> --}}
                 </div>
                 <!-- End Buttons -->
             </div>
@@ -27,7 +33,7 @@
 
             <div class="relative ml-4">
                 <img class="w-full rounded-md" src="https://source.unsplash.com/5QgIuuBxKwM/900x1000" alt="Image Description">
-                <div class="absolute inset-0 -z-[1] bg-gradient-to-tr from-gray-200 via-white/0 to-white/0 w-full h-full rounded-md mt-4 -mb-4 mr-4 -ml-4 lg:mt-6 lg:-mb-6 lg:mr-6 lg:-ml-6 dark:from-slate-800 dark:via-slate-900/0 dark:to-slate-900/0"></div>
+                <div class="absolute inset-0 -z-[1] bg-gradient-to-tr from-gray-200 via-white/0 to-white/0 w-full h-full rounded-md mt-4 -mb-4 mr-4 -ml-4 lg:mt-6 lg:-mb-6 lg:mr-6 lg:-ml-6"></div>
             </div>
             <!-- End Col -->
         </div>
@@ -42,11 +48,11 @@
     <!-- Grid -->
     <div class="grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-3 gap-4 sm:gap-6 content-center">
         <!-- Card -->
-        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800" href="#">
+        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition" href="#">
             <div class="p-4 md:p-5">
                 <div class="flex justify-between items-center">
                     <div>
-                        <h3 class="group-hover:text-primary font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                        <h3 class="group-hover:text-primary font-semibold text-gray-800">
                             Bahasa Sunda
                         </h3>
                         <p class="text-sm text-gray-500">
@@ -64,11 +70,11 @@
         <!-- End Card -->
 
         <!-- Card -->
-        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800" href="#">
+        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition" href="#">
             <div class="p-4 md:p-5">
                 <div class="flex justify-between items-center">
                     <div>
-                        <h3 class="group-hover:text-primary font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                        <h3 class="group-hover:text-primary font-semibold text-gray-800">
                             Bahasa Jawa
                         </h3>
                         <p class="text-sm text-gray-500">
@@ -86,11 +92,11 @@
         <!-- End Card -->
 
         <!-- Card -->
-        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800" href="#">
+        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition" href="#">
             <div class="p-4 md:p-5">
                 <div class="flex justify-between items-center">
                     <div>
-                        <h3 class="group-hover:text-primary font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                        <h3 class="group-hover:text-primary font-semibold text-gray-800">
                             Bahasa Madura
                         </h3>
                         <p class="text-sm text-gray-500">
@@ -113,7 +119,7 @@
 <!-- Course Section End -->
 <!-- Environment Section Start -->
 <div class="m-10">
-    <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight dark:text-white text-center">"<span class="text-primary">Guneman.id</span> adalah platform belajar Bahasa daerah Indonesia yang interaktif dibantu tentor dari penutur asli Bahasa daerah setempat"</h1>
+    <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight text-center">"<span class="text-primary">Guneman.id</span> adalah platform belajar Bahasa daerah Indonesia yang interaktif dibantu tentor dari penutur asli Bahasa daerah setempat"</h1>
 </div>
 <!-- Card Section -->
 <div class="max-w-5xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
@@ -121,7 +127,7 @@
     <h1 class="font-bold text-xl text-center my-5"><span class="text-primary">Guneman.id</span> Menyediakan :</h1>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
         <!-- Card -->
-        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800" href="#">
+        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition" href="#">
             <div class="p-4 md:p-5">
                 <div class="flex">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="60" viewBox="0 0 61 60" fill="none">
@@ -136,7 +142,7 @@
                     </svg>
 
                     <div class="grow ml-5">
-                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800">
                             Course
                         </h3>
                         <p class="text-sm text-gray-500">
@@ -149,7 +155,7 @@
         <!-- End Card -->
 
         <!-- Card -->
-        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800" href="#">
+        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition" href="#">
             <div class="p-4 md:p-5">
                 <div class="flex">
                     <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
@@ -159,7 +165,7 @@
                     </svg>
 
                     <div class="grow ml-5">
-                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800">
                             Video Edukasi
                         </h3>
                         <p class="text-sm text-gray-500">
@@ -172,7 +178,7 @@
         <!-- End Card -->
 
         <!-- Card -->
-        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800" href="#">
+        <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition" href="#">
             <div class="p-4 md:p-5">
                 <div class="flex">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="60" viewBox="0 0 61 60" fill="none">
@@ -189,7 +195,7 @@
                     </svg>
 
                     <div class="grow ml-5">
-                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200">
+                        <h3 class="group-hover:text-blue-600 font-semibold text-gray-800">
                             Kamus Bahasa Daerah
                         </h3>
                         <p class="text-sm text-gray-500">
