@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\SessionController;
+use App\Http\Controllers\Admin\DashboardController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -25,12 +27,6 @@ Route::get('/about', function () {
     ]);
 });
 
-Route::get('/register', function () {
-    return view('register',[
-        "title" => "Register",
-    ]);
-});
-
 Route::get('/galery', function () {
     return view('galery',[
         "title" => "Galery",
@@ -41,4 +37,8 @@ Route::get('/course', function () {
     return view('course',[
         "title" => "Course",
     ]);
+});
+
+Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], function(){
+    Route::get('/dashboard', DashboardController::class)->name('dashboard');
 });

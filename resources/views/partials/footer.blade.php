@@ -5,10 +5,10 @@
             <h6 class="font-bold mb-4">Supported By :</h6>
         </div>
         <div class="flex flex-row justify-center my-4 gap-4">
-            <img src="./img/pendidikan.png" alt="kemendikbud" class="h-[50px]">
-            <img src="./img/kampus-merdeka.png" alt="Kampus Merdeka" class="h-[50px]">
-            <img src="./img/p2mw.png" alt="P2MW" class="h-[50px]">
-            <img src="./img/unimus.png" alt="UNIMUS" class="h-[50px]">
+            <img src="./img/pendidikan.png" alt="kemendikbud" class="md:h-[50px] h-[35px]">
+            <img src="./img/kampus-merdeka.png" alt="Kampus Merdeka" class="md:h-[50px] h-[35px]">
+            <img src="./img/p2mw.png" alt="P2MW" class="md:h-[50px] h-[35px]">
+            <img src="./img/unimus.png" alt="UNIMUS" class="md:h-[50px] h-[35px]">
         </div>
         <!-- End Col -->
         <div class="mt-4">
