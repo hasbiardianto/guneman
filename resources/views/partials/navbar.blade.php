@@ -28,18 +28,22 @@
                 class="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow sm:block">
                 <div
                     class="flex flex-col gap-y-4 gap-x-0 mt-5 sm:flex-row sm:items-center sm:justify-end sm:gap-y-0 sm:gap-x-7 sm:mt-0 sm:pl-7">
-                    <a class="font-medium {{ $title === 'Beranda' ? 'text-blue-600 sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
+                    <a class="font-medium {{ $title === 'Beranda' ? 'text-primary sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
                         href="/" aria-current="page">Beranda</a>
-                    <a class="font-medium {{ $title === 'Course' ? 'text-blue-600 sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
+                    <a class="font-medium {{ $title === 'Course' ? 'text-primary sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
                         href="/course">Course</a>
-                    <a class="font-medium {{ $title === 'Galery' ? 'text-blue-600 sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
+                    <a class="font-medium {{ $title === 'Galery' ? 'text-primary sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
                         href="/galery">Galery</a>
-                    <a class="font-medium {{ $title === 'About' ? 'text-blue-600 sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
+                    <a class="font-medium {{ $title === 'About' ? 'text-primary sm:py-6' : 'text-gray-500 hover:text-gray-400 sm:py-6' }}"
                         href="/about">About Us</a>
-                    <button type="button"
-                        class="py-3 px-4 inline-flex justify-center items-center gap-2 rounded-md border border-transparent font-semibold bg-blue-500 text-white hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
-                        Login
-                    </button>
+                    <div class="gap-2">     
+                        <a href="/login">
+                            <button type="button" class="py-3 px-4 inline-flex justify-center items-center gap-2 rounded-md border border-transparent font-semibold bg-gray-800 text-white hover:bg-primary focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800"> Masuk </button>                            
+                        </a>
+                        <a href="/register">
+                            <button type="button" class="py-3 px-4 inline-flex justify-center items-center gap-2 rounded-md border border-transparent font-semibold bg-white text-primary hover:bg-primary hover:text-white focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800"> Daftar </button>                            
+                        </a>
+                    </div>
                 </div>
             </div>
         </nav>

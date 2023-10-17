@@ -8,7 +8,7 @@
             <img src="./img/pendidikan.png" alt="kemendikbud" class="md:h-[50px] h-[35px]">
             <img src="./img/kampus-merdeka.png" alt="Kampus Merdeka" class="md:h-[50px] h-[35px]">
             <img src="./img/p2mw.png" alt="P2MW" class="md:h-[50px] h-[35px]">
-            <img src="./img/unimus.png" alt="UNIMUS" class="md:h-[50px] h-[35px]">
+            <img src="./img/img-unimus.png" alt="UNIMUS" class="md:h-[50px] h-[35px]">
         </div>
         <!-- End Col -->
         <div class="mt-4">
@@ -17,7 +17,7 @@
         </div>
 
         <!-- Social Brands -->
-        
+
         <!-- End Social Brands -->
     </div>
     <!-- End Grid -->
