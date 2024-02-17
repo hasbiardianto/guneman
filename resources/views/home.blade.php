@@ -43,7 +43,7 @@
 <!-- End Hero -->
 <!-- Course Section Start -->
 <!-- Card Section -->
-<div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+{{-- <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
     <h1 class="font-bold text-xl text-center my-10 md:text-4xl text-gray-800">Pilihan Course</h1>
     <!-- Grid -->
     <div class="grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-3 gap-4 sm:gap-6 content-center">
@@ -114,12 +114,12 @@
         <!-- End Card -->
     </div>
     <!-- End Grid -->
-</div>
+</div> --}}
 <!-- End Card Section -->
 <!-- Course Section End -->
 <!-- Environment Section Start -->
-<div class="m-10">
-    <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight text-center">"<span class="text-primary">Guneman.id</span> adalah platform belajar Bahasa daerah Indonesia yang interaktif dibantu tentor dari penutur asli Bahasa daerah setempat"</h1>
+<div class="container mx-auto max-w-[85rem] mt-20">
+    <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-4xl lg:leading-tight text-center"><span class="text-primary">Guneman.id</span> adalah platform belajar Bahasa daerah Indonesia yang interaktif dibantu tentor dari penutur asli Bahasa daerah setempat</h1>
 </div>
 <!-- Card Section -->
 <div class="max-w-5xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
